@@ -1,0 +1,12 @@
+{
+  "name": "fcppl-intertmediary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://barrycumming.github.io/fcppl-intertmediary",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "bc",
+  "license": "MIT"
+}
